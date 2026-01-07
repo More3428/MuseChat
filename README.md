@@ -1,2 +1,3 @@
 # MuseChat
-An app where you can see and chat with people who are listening to the same song as you at the time you are listening to it. 
+An app where you can see and chat with people listening to the same song as you in real time. 
+
